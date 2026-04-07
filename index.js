@@ -3,9 +3,9 @@ const mineflayer = require('mineflayer')
 console.log("بدء الاتصال...")
 
 const bot = mineflayer.createBot({
-  host: 'dynamic-8.magmanode.com',
-  port: 25780,
-  username: 'Player' + Math.floor(Math.random() * 1000),
+  host: 'dynamic-9.magmanode.com',
+  port: 25711,
+  username: 'Sank_Bot' + Math.floor(Math.random() * 1000),
   version: false,
   auth: 'offline'
 })
